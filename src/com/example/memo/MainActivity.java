@@ -17,6 +17,7 @@ import android.os.Build;
 public class MainActivity extends ActionBarActivity {
 	//EditText—p‚Ì•Ï”
 	private EditText editText;
+	/*ƒRƒƒ“ƒg*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
